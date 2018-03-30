@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+My name is Miguel Torrez and this will be my first git project.
