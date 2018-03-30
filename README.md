@@ -1,2 +1,2 @@
 # hello-world
-My name is Miguel Torrez and this will be my first git project.
+Welcome to another detailed description about how to use git hub and git. I'm a first time user and this is really cool stuff!
